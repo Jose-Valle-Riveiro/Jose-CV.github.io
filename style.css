@@ -1,0 +1,56 @@
+h1, h2 {
+    
+    color: #b60699;
+    font-family: Lucida Sans Unicode;
+
+}
+h3{
+    color: #7bc4c8;
+    font-family: verdana;
+}
+legend{
+
+    color: #7bc4c8;
+    background-color: #5b65ac;
+    padding: 0.005rem 0.2rem;
+    border-radius: 10px;
+}
+p, li{
+    color: #e5a9f8;
+    font-family: Arial;
+}
+
+strong{
+    color: #7bc4c8;
+}
+body{
+    padding: 10%;
+    background-image: url(Landscape.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+fieldset{
+    
+    border: 1px solid black;
+    margin-bottom: 10px;
+    background-color: #46525c;
+}
+
+div{
+    
+
+    padding: 5% 20%;  
+    background-color: #392437;
+}
+
+img{
+    margin: 15px 30px;
+    border-radius: 5%;
+    display: inline;
+    float: left;
+}
+
+
